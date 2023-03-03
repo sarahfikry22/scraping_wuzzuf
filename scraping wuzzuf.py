@@ -71,6 +71,12 @@ for i in range (len(job_title)):
     job_skills.append(job_skill[i].text)
 
 
+# In[26]:
+
+
+job_skills[0]
+
+
 # In[16]:
 
 
